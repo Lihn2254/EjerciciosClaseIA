@@ -1,3 +1,7 @@
 .venv/
 **/data/train/**/
 **/data/val/**/
+
+**/.vscode
+**/bin
+**/lib
