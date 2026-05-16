@@ -1,0 +1,6 @@
+.venv
+__pycache__
+
+# Ignore input and generated images
+cropped_faces/
+input_images/
